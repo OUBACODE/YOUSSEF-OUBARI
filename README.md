@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Dynamic Header Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,41&height=220&section=header&text=OUBACODE%20|%20Youssef%20Oubari%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20OubaCode%20•%20Mobile%20App%20Architect%20•%20Full-Stack%20%26%20AI%20Developer&descFontSize=17&descAlignY=58" width="100%" alt="OUBACODE Header Banner" />
+  <!-- Dynamic Header Wave Banner (XML Validated) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,41&height=220&section=header&text=OUBACODE%20|%20Youssef%20Oubari&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20at%20OubaCode%20•%20Mobile%20App%20Architect%20•%20Full-Stack%20and%20AI%20Developer&descFontSize=17&descAlignY=58" width="100%" alt="OUBACODE Header Banner" />
 
   <!-- Animated Typing Headline -->
   <a href="https://oubacode.ma" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=C9A876&center=true&vCenter=true&width=750&lines=Founder+%40+OUBACODE+%E2%80%94+Global+Digital+Studio;12%2B+Production+Apps+Published+on+Google+Play;Architecting+Fluid+Android+%26+Cross-Platform+Apps;Full-Stack+Web%2C+AI+Interfaces+%26+Cloud+Systems;Based+in+Morocco+%F0%9F%87%B2%F0%9F%87%A6+%E2%80%A2+Shipping+to+150%2B+Countries" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=C9A876&center=true&vCenter=true&width=750&lines=Founder+%40+OUBACODE+%E2%80%94+Global+Digital+Studio;12%2B+Production+Apps+Published+on+Google+Play;Architecting+Fluid+Android+and+Cross-Platform+Apps;Full-Stack+Web%2C+AI+Interfaces+and+Cloud+Systems;Based+in+Morocco+%F0%9F%87%B2%F0%9F%87%A6+%E2%80%A2+Shipping+to+150%2B+Countries" alt="Typing Headline" />
   </a>
 
   <br/><br/>
@@ -107,31 +107,21 @@ identity:
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <a href="https://github.com/yusufobr">
-    <img src="https://github-profile-trophy.vercel.app/?username=yusufobr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Analytics & Streak
+### 📊 GitHub Activity & Language Statistics
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=yusufobr&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="410" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=yusufobr&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="410" />
       </td>
-      <td align="center">
+      <td align="center" valign="top">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufobr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="410" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufobr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="390" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yusufobr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="390" />
       </td>
     </tr>
   </table>
